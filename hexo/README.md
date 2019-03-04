@@ -1,3 +1,5 @@
+# npm install hexo-cli -g
+
 # npm install hexo-deployer-git --save
 
 # hexo clean  --- 清除缓存

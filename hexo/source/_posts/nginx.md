@@ -1,7 +1,7 @@
 ---
 title: 使用nginx解决前后端分离跨域
 date: 2019-02-01 10:05:38
-tags: nginx 服务器
+tags: [nginx, 服务器]
 categories: 工具 跨域
 ---
 ## nginx 使用为了解决跨域问题
